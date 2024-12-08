@@ -1,11 +1,7 @@
-# Работа по ПКС №8 Жидков Ярослав Николаевич ЭФБО-05-22
-## Проверка на запуск GO-сервера
-![image](https://github.com/user-attachments/assets/ae7fa7af-ddd8-48d9-8df2-4a80aacb8867)
-## Проверка метода в Postman
-![image](https://github.com/user-attachments/assets/533ace2b-5174-4ef9-95a5-02d84e3eed6b)
-## Проверка прохождения тестов методов CRUD в Goland
-![image](https://github.com/user-attachments/assets/80cf5e34-a918-4486-9329-bf9a49e11cde)
-## Проверка в браузере
-![image](https://github.com/user-attachments/assets/689f9fea-aaa6-4cfd-ba61-5b97190f2683)
-## Баз данных и Real-time отчёт об использовании CRUD-методов
-![image](https://github.com/user-attachments/assets/d7e4fb1f-a03f-4500-bad5-d62c6f923ef5)
+# Работа по ПКС №12 Жидков Ярослав Николаевич ЭФБО-05-22
+## Добавил иконку чата рядом с полем поиска товаров
+![image](https://github.com/user-attachments/assets/bf3aaba0-5ef2-46e4-9e85-c28f3e7f472b)
+## Чат с продавцом
+![image](https://github.com/user-attachments/assets/3e22aca1-cb31-4fbe-aca3-e7eeacd32a57)
+## Клиент FireBase
+![image](https://github.com/user-attachments/assets/5d0af8ab-dbde-4d1c-a419-406aaa468aa2)
